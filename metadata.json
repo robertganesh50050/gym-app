@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitNexus AI",
+  "description": "A comprehensive Gym Management System with Admin analytics and AI-powered personalized workout and diet plans for members.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
